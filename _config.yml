@@ -1,0 +1,28 @@
+name: designbysergio
+favicon: null
+layout_spectrum: 0.3002820173278451
+typography_spectrum: 0.1919597713276744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.04148627445101738
+  lightness: 0.8180210280697793
+  saturation: 0.7032684921287
+  rhythmicContrast: 0.04483414487913251
+purpose: []
